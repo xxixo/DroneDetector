@@ -1,0 +1,6 @@
+outs:
+- md5: 729cc4a7bad2ba1581d088bc21142175.dir
+  size: 9652
+  nfiles: 45
+  hash: md5
+  path: yolo_annotations
